@@ -1,3 +1,5 @@
+# Ovo je moj komentar - DujeKrstic
+
 def main():
     print("Hello world!")
 
